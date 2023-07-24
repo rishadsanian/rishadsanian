@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I am a generalist with a passion for learning, creating, and reflecting. 
 
-## Skills
+## Tools
 
 - Programming Languages: Javascript, Python, SQL, HTML5, CSS3
 - Frameworks and Libraries: Node, React, Express, Postgresql, Rails, jQuery
@@ -11,12 +11,7 @@ Welcome to my GitHub profile! I am a generalist with a passion for learning, cre
 - Project Management: Jira, Trello, Notion, Agile
 - DevOps and Cloud: Git, Circle CI, Netlify, IBM Watson Studio
 - Design: Figma, Canva, Adobe Illustrator
-- Operating Systems: Windows, Linux, Android
 - Data and Analytics: ERD design, ORM, Google Analytics, MS Clarity
-- Financial: SWIFT Payments, Quickbooks, MS Dynamics (Great Plains)
-- Events: Cvent, Showcare, Event Mobi
-- Audio: Ableton, FL Studio
-- Communication: Mail Chimp, GoToMeeting, Zoom
 
  ## Contacts & Social
 
