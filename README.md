@@ -1,7 +1,7 @@
 
 # Hello, I'm Rishad Alam! 👋
 
-Welcome to my GitHub profile! I am a generalist with a passion for learning, creating, and reflecting. 
+Welcome to my GitHub profile! I am a full stack developer with a passion for learning, creating, and reflecting. 
 
 ## Tools
 
