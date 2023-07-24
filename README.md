@@ -3,12 +3,6 @@
 
 Welcome to my GitHub profile! I am a generalist with a passion for learning, creating, and reflecting. 
 
-## Contact
-
-- Email: rishad.s.a@gmail.com
-- LinkedIn: [rishad-alam-14b26845](www.linkedin.com/in/rishad-alam-14b26845)
-- Instagram: [rishadsanian](https://www.instagram.com/rishadsanian/)
-
 ## Skills
 
 - Programming Languages: Javascript, Python, SQL, HTML5, CSS3
@@ -23,6 +17,13 @@ Welcome to my GitHub profile! I am a generalist with a passion for learning, cre
 - Events: Cvent, Showcare, Event Mobi
 - Audio: Ableton, FL Studio
 - Communication: Mail Chimp, GoToMeeting, Zoom
+
+ ## Contacts & Social
+
+- Email: rishad.s.a@gmail.com
+- LinkedIn: [rishad-alam-14b26845](www.linkedin.com/in/rishad-alam-14b26845)
+- Instagram: [rishadsanian](https://www.instagram.com/rishadsanian/)
+- SoundCloud: [rishadsanian](https://soundcloud.com/rishadsanian)
 
 <!--
 **rishadsanian/rishadsanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
