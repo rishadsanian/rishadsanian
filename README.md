@@ -5,12 +5,13 @@ Welcome to my GitHub profile! I am a generalist with a passion for learning, cre
 
 ## Tools
 
-- Programming Languages: Javascript, Python, SQL, HTML5, CSS3
-- Frameworks and Libraries: Node, React, Express, Postgresql, Rails, jQuery
+- Programming Languages: Javascript, Python, Ruby, SQL, HTML5, CSS3
+- Frameworks and Libraries: Node, React, Express, Postgresql, Rails, jQuery, EJS, SASS, Bcrypt, Cookie Sessions, Ajax, Axios, NumPy,
+Matplotlib, Scikit
 - Testing: Cypress, Jest, Mocha, Chai
 - Project Management: Jira, Trello, Notion, Agile
-- DevOps and Cloud: Git, Circle CI, Netlify, IBM Watson Studio
-- Design: Figma, Canva, Adobe Illustrator
+- DevOps and Cloud: Git, Circle CI, Netlify, Railway, IBM Watson Studio
+- Design: Figma, Canva, Draw.io, Adobe Illustrator
 - Data and Analytics: ERD design, ORM, Google Analytics, MS Clarity
 
  ## Contacts & Social
