@@ -1,5 +1,5 @@
 
-# Hello, I'm Rishad Alam! 👋
+# Hello, I'm Rishad! 👋
 
 Welcome to my GitHub profile! I am a full stack developer with a passion for learning, creating, and reflecting. 
 
