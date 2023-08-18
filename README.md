@@ -1,7 +1,7 @@
 
 # Hello, I'm Rishad! 👋
 
-Welcome to my GitHub profile! I am a full stack developer with a passion for learning, creating, and reflecting. 
+Welcome to my GitHub profile! I am a full stack developer with a passion for learning, creating, and reflecting. I also have a background in Accounting & Finance, Project Management, and Event Planning for Trade shows & Conferences.
 
 ## Tools
 
