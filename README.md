@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a full stack developer with a passion for lea
 
 - Programming Languages: Javascript, Python, Ruby, SQL, HTML5, CSS3
 - Frameworks and Libraries: Node, React, Express, Postgresql, Rails, Active Record, jQuery, EJS, SASS, Bcrypt, Cookie Sessions, Ajax, Axios, NumPy,
-Matplotlib, Scikit
+Matplotlib, Scikit, OpenAI, Chartjs, Material UI, React-Slick, Moment
 - Testing: Cypress, Jest, Mocha, Chai
 - Project Management: Jira, Trello, Notion, Agile
 - DevOps and Cloud: Git, Circle CI, Netlify, Railway, IBM Watson Studio
