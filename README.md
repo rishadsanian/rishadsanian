@@ -3,17 +3,6 @@
 
 Welcome to my GitHub profile! I am a full stack developer with a passion for learning, creating, and reflecting. I also have a background in Accounting & Finance, Project Management, and Event Planning for Trade shows & Conferences.
 
-## Tools
-
-- Programming Languages: Javascript, Python, Ruby, SQL, HTML5, CSS3
-- Frameworks and Libraries: Node, React, Express, Postgresql, Rails, Active Record, jQuery, EJS, SASS, Bootstrap, Bcrypt, Cookie Sessions, Ajax, Axios, NumPy,
-Matplotlib, Scikit, OpenAI, Chartjs, Material UI, React-Slick, Moment
-- Testing: Cypress, Jest, Mocha, Chai
-- Project Management: Jira, Trello, Notion, Agile Methodologies
-- DevOps and Cloud: Git, Circle CI, Netlify, Railway, IBM Watson Studio
-- Design: Figma, Canva, Draw.io, Adobe Illustrator
-- Data and Analytics: ERD design, ORM, Google Analytics, MS Clarity
-
  ## Contacts & Social
 
 - Email: rishad.s.a@gmail.com
